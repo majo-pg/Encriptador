@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@400..700&display=swap');
+
+:root {
+    --color-primaria: #000000;
+    --color-secundaria: #F6F6F6;
+    --color-terciaria: #f5a2f1;
+    --color-hover: #18ecd0;
+
+    --fuente-edu: 'Edu VIC WA NT Beginner', normal;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
